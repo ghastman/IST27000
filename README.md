@@ -9,4 +9,8 @@ First install the repo
 
 Then install the package  
   
-    sudo yum install pgadmin4
+    sudo yum install pgadmin4  
+
+Start pgAdmin 4
+
+    /usr/pgadmin4/bin/pgadmin  
