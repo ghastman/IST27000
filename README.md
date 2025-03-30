@@ -12,7 +12,8 @@ https://www.postgresql.org/download/linux/redhat/#yum
 # Install PostgreSQL:  
 
     sudo dnf install -y postgresql17-server  
-or    
+or
+
     sudo dnf install -y postgresql17-server postgresql17-docs postgresql17-plperl postgresql17-odbc
 
 # Initialize the database and enable automatic start:  
