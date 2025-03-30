@@ -21,6 +21,11 @@ or
     sudo systemctl enable postgresql-17  
     sudo systemctl start postgresql-17  
 
+# Status of server
+    
+    sudo systemctl status postgresql-17
+  
+
 ### Install pgAdmin from https://www.pgadmin.org/download/pgadmin-4-rpm/  
 
 # First install the repo  
@@ -34,3 +39,7 @@ or
 # Start pgAdmin 4
 
     /usr/pgadmin4/bin/pgadmin  
+
+# Done!
+
+![screenshot](screenshots/postgres_installed.png)
