@@ -1,0 +1,20 @@
+SET schema 'project_00';
+
+select * from Uses_T;
+select * from WorksIn_T;
+select * from WorkCenter_T;
+select * from DoesBusinessIn_T;
+select * from EmployeeSkills_T;
+select * from Supplies_T;
+select * from ProducedIn_T;
+select * from OrderLine_T;
+select * from Product_T;
+select * from ProductLine_T;
+select * from Order_T;
+select * from Salesperson_T;
+select * from Vendor_T;
+select * from Skill_T;
+select * from RawMaterial_T;
+select * from Territory_T;
+select * from Employee_T;
+select * from Customer_T;

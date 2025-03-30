@@ -43,3 +43,7 @@ or
 # Done!
 
 ![screenshot](screenshots/postgres_installed.png)
+
+# After all the pvfc data installed  
+
+![screenshot](screenshots/pvfc_installed.png)
