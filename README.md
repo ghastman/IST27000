@@ -1,5 +1,4 @@
-### Install Postgres on Rocky8  
-https://www.postgresql.org/download/linux/redhat/#yum  
+### Install Postgres on Rocky8 https://www.postgresql.org/download/linux/redhat/#yum  
 
 # Install the repository RPM:
 
@@ -27,7 +26,7 @@ or a more complete install
     sudo systemctl status postgresql-17
   
 
-### Install pgAdmin from https://www.pgadmin.org/download/pgadmin-4-rpm/  
+### Install pgAdmin https://www.pgadmin.org/download/pgadmin-4-rpm/  
 
 # First install the repo  
   
